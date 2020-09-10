@@ -48,7 +48,6 @@ def draw_main(drawing):
     drawing.end_fill()
 
 def draw_door(drawing):
-    drawing.fillcolor("#714e1b")
     drawing.left(90)
     drawing.forward(35)
     drawing.right(90)
